@@ -1,1 +1,1 @@
-# Computer_Parts_Shop_CSE4126
+# This is a distributed database project based on PL/SQL language. This is basically a 'Computer Parts Shop' CLI application. The database is distributed over two hosts. 
